@@ -7,7 +7,8 @@
 
 # testing
 /coverage
-
+TempoAula.txt
+github.txt
 # production
 /build
 
