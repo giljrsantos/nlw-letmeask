@@ -1,6 +1,6 @@
 # LetMeask
 
-## Regras de negócios
+## Business Rules
     [ x ] Only authenticated users read data fro rooms and questions;
     [ x ] Only authenticated users can create new rooms
     [ x ] Only authenticated users can send new questions;
