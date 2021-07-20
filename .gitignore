@@ -11,6 +11,7 @@ TempoAula.txt
 github.txt
 # production
 /build
+firebase-debug.log
 
 # misc
 .DS_Store
